@@ -32,6 +32,10 @@ li:hover {
   background-color: #f0f0f0;
 }
 
+.selected-user {
+  background-color: #646cff;
+}
+
 .details-container {
   margin-left: 20px;
   display: flex;
